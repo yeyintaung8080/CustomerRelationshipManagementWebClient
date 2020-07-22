@@ -1,4 +1,4 @@
-package com.luv2code.springdemo.model;
+package com.yya.springdemo.model;
 
 public class Customer {
 

@@ -1,8 +1,8 @@
-package com.luv2code.springdemo.service;
+package com.yya.springdemo.service;
 
 import java.util.List;
 
-import com.luv2code.springdemo.model.Customer;
+import com.yya.springdemo.model.Customer;
 
 public interface CustomerService {
 

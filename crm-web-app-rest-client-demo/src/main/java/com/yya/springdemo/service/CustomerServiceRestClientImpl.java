@@ -1,4 +1,4 @@
-package com.luv2code.springdemo.service;
+package com.yya.springdemo.service;
 
 import java.util.List;
 import java.util.logging.Logger;
@@ -11,7 +11,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
-import com.luv2code.springdemo.model.Customer;
+import com.yya.springdemo.model.Customer;
 
 @Service
 public class CustomerServiceRestClientImpl implements CustomerService {
